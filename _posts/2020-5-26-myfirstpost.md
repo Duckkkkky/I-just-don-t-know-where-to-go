@@ -2,7 +2,7 @@
 layout: post
 title: 梦待
 date: 2020-5-25
-Author: Ducky
+author: Ducky
 categories: 
 tags: [Megamido]
 comments: true
@@ -145,6 +145,7 @@ comments: true
 　　我们是命定要相遇的。无论在什么时候。
 
 　　佐伯这样想着，再度沉溺于这动情的深吻中。
-***
+  
+*************
 
 后记：本文和歌全部来自《小仓百人一首》。
