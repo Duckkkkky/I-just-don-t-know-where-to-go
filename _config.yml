@@ -66,14 +66,14 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: 本博客仅供作者本人存放文档使用，在阅览前请保证您已满18周岁。接受无能请直接退出。
+footer-text: 本博客仅供作者本人存放文档使用，在阅览前请保证您已满18周岁。接受无能请直接退出。此处鸣谢原作者FromEndWorld/来自中世界。
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
 #
 
 # 输入Disqus shortname，即可添加评论区
-disqus: Ducky #shortname
+disqus: duckkkkky #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
